@@ -25,6 +25,7 @@ def main():
        """+g+"""CYBER-D"""+reset)
 		print("           "+y+"<========[[ "+s_b+"coded by "+blink+"NKN"+reset+y+" ]]========>\n"+reset)
 		print("        "+y+"<--------( "+r+"Github : DRAGONNKN"+y+" )-------->\n"+reset)
+		print("         "+y+"<--------( "+r+"Instagram :  N_K_N_17_"+y+" )------->\n"+reset)
 	# recon data
 	def recon():
 		global target, json_data, ReportList
