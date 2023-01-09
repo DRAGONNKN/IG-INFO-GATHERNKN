@@ -22,7 +22,7 @@ def main():
 		print(p+"""
    
        
-       """+g+"""v1.0"""+reset)
+       """+g+"""CYBER-D"""+reset)
 		print("           "+y+"<========[[ "+s_b+"coded by "+blink+"NKN"+reset+y+" ]]========>\n"+reset)
 		print("        "+y+"<--------( "+r+"Github : DRAGONNKN"+y+" )-------->\n"+reset)
 	# recon data
